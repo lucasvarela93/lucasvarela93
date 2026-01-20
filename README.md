@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasvarela93
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in programming, coding and continuous learning  
 - 🌱 I’m currently learning C, SQL and Python
 - 💞️ I’m looking to collaborate on ...
